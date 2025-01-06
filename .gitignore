@@ -1,0 +1,5 @@
+node_modules/
+dist/
+resouces/compare/*.json
+resouces/input/*.json
+resouces/output/*.json
