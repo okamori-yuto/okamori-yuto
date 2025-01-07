@@ -3,3 +3,5 @@ dist/
 resouces/compare/*.json
 resouces/input/*.json
 resouces/output/*.json
+resouces/split/input/*.csv
+resouces/split/output/*.csv
