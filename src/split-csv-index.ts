@@ -17,6 +17,7 @@ function splitCSV(inputFilePath: string, outputDir: string, linesPerFile: number
 // 使用例
 const inputFilePath = 'resouces/split/input/input.csv'; // 入力ファイルのパス
 const outputDir = 'resouces/split/output';
+// スプレッドシートは一度に50.MBまで追加できる
 const linesPerFile = 1000; // 分割する行数
 
 splitCSV(inputFilePath, outputDir, linesPerFile);
