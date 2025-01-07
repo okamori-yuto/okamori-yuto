@@ -5,3 +5,4 @@ resouces/input/*.json
 resouces/output/*.json
 resouces/split/input/*.csv
 resouces/split/output/*.csv
+root/json-formatter/target
